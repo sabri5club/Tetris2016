@@ -4,7 +4,7 @@
 <h2>**Notre groupe est constitué de Sabri Tanich, Paul Zeino et Tassin Mael Jose Tchuembou.**</h2>
 
 
-**Comment lancer le jeu** :
+<h1>**Comment lancer le jeu**</h1> :
 
 Pour générer le jar sous linux:
    - Nous nous plaçons dans le répertoire de projet en utilisant la commande cd ...../src/
@@ -16,13 +16,13 @@ Pour lancer l'application sous linux:
    - Nous lançons la commande java Principale
    
    
- **Les features que nous avons faites/ajouté** :
+ <h1>**Les features que nous avons faites/ajouté**</h1> :
 
 L'horloge, la gestion du score, interface en ligne de commande, différentes pièces tétris
  
  
  
- **Pour jouer au Tetris** :
+ <h1>**Pour jouer au Tetris**</h1> :
  
  Les commandes de jeux sont:
 
@@ -33,7 +33,7 @@ L'horloge, la gestion du score, interface en ligne de commande, différentes pi�
   - Pour retourner la pièce appuyez sur la flèche vers le haut.
   - Pour suspendre le jeux appuyez sur la touche "p".
   
-  **Exercice d'architecture** :
+  <h1>**Exercice d'architecture**</h1> :
   
   Pour la conception de notre application nous avons adopté une architecture modulaire, ainsi nous avons découper le programme en trois modules:
 
@@ -43,7 +43,7 @@ L'horloge, la gestion du score, interface en ligne de commande, différentes pi�
  temporels" intervenant dans la gestion des mouvements et déplacement des différentes pièces.
  
  
- **Exercice Design Pattern** :
+ <h1>**Exercice Design Pattern**</h1> :
  
  Illustration de trois principes de SOLID utilisés
  
