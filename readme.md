@@ -1,4 +1,7 @@
-**Notre groupe est constitué de Sabri Tanich, Paul Zeino et Tassin Mael Jose Tchuembou.**
+
+
+
+<h2>**Notre groupe est constitué de Sabri Tanich, Paul Zeino et Tassin Mael Jose Tchuembou.**</h2>
 
 
 **Comment lancer le jeu** :
