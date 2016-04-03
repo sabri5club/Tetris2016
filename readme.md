@@ -1,7 +1,7 @@
-Notre groupe est constitué de Sabri Tanich, Paul Zeino et Tassin Mael Jose Tchuembou.
+**Notre groupe est constitué de Sabri Tanich, Paul Zeino et Tassin Mael Jose Tchuembou.**
 
 
-Comment lancer le jeu :
+**Comment lancer le jeu** :
 
 Pour générer le jar sous linux:
    - Nous nous plaçons dans le répertoire de projet en utilisant la commande cd ...../src/
@@ -17,7 +17,7 @@ Pour lancer l'application sous linux:
  
  
  
- Pour jouer au Tetris :
+ **Pour jouer au Tetris** :
  
  Les commandes de jeux sont:
 
@@ -28,7 +28,7 @@ Pour lancer l'application sous linux:
   - Pour retourner la pièce appuyez sur la flèche vers le haut.
   - Pour suspendre le jeux appuyez sur la touche "p".
   
-  Exercice d'architecture :
+  **Exercice d'architecture** :
   
   Pour la conception de notre application nous avons adopté une architecture modulaire, ainsi nous avons découper le programme en trois modules:
 
@@ -38,7 +38,7 @@ Pour lancer l'application sous linux:
  temporels" intervenant dans la gestion des mouvements et déplacement des différentes pièces.
  
  
- Exercice Design Pattern :
+ **Exercice Design Pattern** :
  
  Illustration de trois principes de SOLID utilisés
  
