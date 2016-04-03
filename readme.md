@@ -15,7 +15,7 @@ Pour lancer l'application sous linux:
    
  **Les features que nous avons faites/ajouté** :
 
-L'horloge, la gestion du score
+L'horloge, la gestion du score, interface en ligne de commande, différentes pièces tétris
  
  
  
