@@ -13,7 +13,9 @@ Pour lancer l'application sous linux:
    - Nous lançons la commande java Principale
    
    
- Les features que nous avons faites/ajouté :
+ **Les features que nous avons faites/ajouté** :
+
+L'horloge, la gestion du score
  
  
  
