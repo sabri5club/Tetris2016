@@ -1,8 +1,0 @@
-Les commandes de jeux sont:
-
-  -Au lancement du jeux vous appuyer sur la touche "Entrée" pour lancer une partie
-  - Pour déplacer à gauche appuyez sur <--
-  - Pour déplacer à gauche appuyez sur -->
-  - Pour accélerer le difilement de la pièce vers le bas apuuyez sur la flèche vers le bas
-  - Pour retourner la pièce appuyez sur la flèche vers le haut.
-  - Pour suspendre le jeux appuyez sur la touche "p".
