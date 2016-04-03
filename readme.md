@@ -73,6 +73,8 @@ Single Responsibilty Principle
  
  (Voir diagramme aussi d'architecture dans les fichiers)
  
+ ![Texte alternatif](https://drive.google.com/open?id=0B_bV9dWk_zfqOUlXYl9pSml2MUU "texte pour le titre, facultatif")
+ 
  
  
 
