@@ -49,11 +49,21 @@ Single Responsibilty Principle
  Les responsabilités de nos classes sont définies comme suit :
  
  +•	Classe principale : Cette classe est responsable de lancement du jeu (le noyau et l'interface graphique), et ne se préoccupe pas des autres tâches effectuées en arrière-plan par les différentes méthodes de l’autre classe.
- +•	Classe Pièce : Cette classe a comme unique responsabilité, la définition et le paramétrage des différentes pièces composant le jeu.
+ 
+
++•	Classe Pièce : Cette classe a comme unique responsabilité, la définition et le paramétrage des différentes pièces composant le jeu.
+ 
+ 
  +•	Classe Panneau Affichage : Cette classe est seulement responsable de la création et l'affichage du panneau comportant les statistiques et les commandes de jeu.
+ 
+ 
  +•	Classe Horloge : Est responsable de la gestion des paramètres temporels du jeu, ainsi elle définit la vitesse de jeu, les cycles de mouvements des pièces,….
+ 
+ 
  +•	Classe Grille : Est responsable de la définition et de la gestion de l'aire de jeu.
  +
+ 
+ 
  +Open Closed Principle
  +Nous avons respecté ce principe lors de l'implantation et ceci en donnant plus de liberté d'extension pour les différentes méthodes 
  et modules de nos classes ; Ce principe est par exemple illustré dans les constructeurs des différentes classes de notre projet, 
