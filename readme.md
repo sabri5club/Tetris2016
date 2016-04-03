@@ -40,14 +40,14 @@ Pour lancer l'application sous linux:
  
  Exercice Design Pattern :
  
- +Illustration de trois principes de SOLID utilisés
- +
- +Single Responsibilty Principle
+ Illustration de trois principes de SOLID utilisés
+ 
+Single Responsibilty Principle
  +Nous avons respecté ce principe dans toutes les classes que nous avons implémenté, ainsi chaque classe possède une 
  et une seule responsabilité ce qui nous a permis d'avoir un code flexible et la modification de la responsabilité de chaque classe 
  est beaucoup plus facile et flexible et ne se propage pas sur les autres.
  Les responsabilités de nos classes sont définies comme suit :
- +
+ 
  +•	Classe principale : Cette classe est responsable de lancement du jeu (le noyau et l'interface graphique), et ne se préoccupe pas des autres tâches effectuées en arrière-plan par les différentes méthodes de l’autre classe.
  +•	Classe Pièce : Cette classe a comme unique responsabilité, la définition et le paramétrage des différentes pièces composant le jeu.
  +•	Classe Panneau Affichage : Cette classe est seulement responsable de la création et l'affichage du panneau comportant les statistiques et les commandes de jeu.
