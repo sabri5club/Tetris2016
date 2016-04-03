@@ -73,7 +73,7 @@ Single Responsibilty Principle
  peuvent être étendues en s'adaptant aux différentes implémentations (Open for extension), sans autant être amené à les 
  modifier (Closed for modification).
  
- (Voir diagramme aussi d'architecture dans les fichiers)
+Voici le diagramme d'architecture :
  
  ![Texte alternatif](https://raw.githubusercontent.com/sabri5club/Tetris2016/master/diagramme%20conception%20d'architecture%20logicielle.bmp "texte pour le titre, facultatif")
  
