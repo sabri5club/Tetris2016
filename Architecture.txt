@@ -1,6 +1,0 @@
-Pour la conception de notre application nous avons adopté une architecture modulaire, ainsi nous avons découper le programme en trois modules:
-
- - Module graphique: contient les classes résponsables de la gestion des interfaces graphique de l'application
- - Module Mouvement: contient les classes et les méthodes de la gestion des évenements, et le déplacement des pièces dans le jeux
- - Module Temporel: Contient les méthodes résponsable de la gestion temporelle de jeux, représenté par une horloge régissant les différents "pas
- temporels" intervenant dans la gestion des mouvements et déplacement des différentes pièces.
